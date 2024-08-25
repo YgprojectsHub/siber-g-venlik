@@ -1,0 +1,3 @@
+Kullanıcı kimliğini doğrulamak için kullanılan bir güvenlik önlemidir.
+
+İki faktörlü kimlik doğrulama iki farklı faktör söz konusudur. İlk faktör şifremizdir ve ikinci faktör ise telefonunuz veya parmak iziniz olabilir.

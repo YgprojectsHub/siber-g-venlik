@@ -1,0 +1,1 @@
+Yedekleme bir veri kaybından sonra orijinalinin kopyasını başka bir depolamadan alarak verileri en az şekilde etkilenmesini sağlamak.

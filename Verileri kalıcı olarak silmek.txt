@@ -1,0 +1,3 @@
+Verilerimizi kalıcı olarak sildiğimizi düşünsekte sildiğimiz verileri geri getirmek mümkündür.
+
+Silinen veriler flash bellek ve bazı programlar(recuva, wondershare recoverit) ile kurtulabilir.

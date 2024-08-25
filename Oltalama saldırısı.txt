@@ -1,0 +1,1 @@
+Oltalama, normal yollarla kullanıcılardan edinilemeyecek kullanıcı adı, parola veya kredi kartı numarası gibi bilgilerin yanıltıcı e-posta veya web siteleri sayesinde edinilmesi girişimidir.

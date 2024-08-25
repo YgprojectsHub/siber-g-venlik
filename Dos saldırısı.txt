@@ -1,0 +1,2 @@
+Dos(Denial od service) hizmet reddi saldırısı olarak adlandırılmaktadır.
+Saldırgan kötü biçimlendirilmiş paketleri hedef sunuculara göndermesidir.

@@ -1,0 +1,8 @@
+Güvenlik açığı bilgisayar sistemimizde bulunan ve bizleri tehlikeye atabilecek hatalardır.
+Güvenlik açıkları ikiye ayrılır: Yazılımsal güvenlik açığı, Donanımsal güvenlik açığı
+
+Yazılımsal güvenlik açığı: Yazılım açıklarıdır, yamalar ile düzeltilebilir.
+
+Donanımsal güvenlik açığı: Bilgisayar bileşenlerinin yazılım açıklarıdır.
+
+Hackerların analiz ettikleri, açık buldukları ve sızmaya karar verdikten sonra sızmak için oluşturulan kodlara "exploit" denir.

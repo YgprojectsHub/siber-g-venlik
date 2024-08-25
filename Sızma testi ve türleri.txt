@@ -1,0 +1,8 @@
+Penetration test(sızma testi) Sızma testinin amacı herhangi bir sistemde var olan güvenlik açığını bulmak, olan açığı sömürmek ve raporlamaktır.
+
+
+Siyah kutu sızma testi : Siyah kutuda test yapılacak firma ve sistem hakkında herhangi bir bilgi sahibi olunmadan test gerçekleştirilir. Yani bir hacker gözünden sistemde zafiyet aranır ve sisteme giriş sağlanır.
+
+Beyaz kutu sızma testi : Bu testte firma, test yapacak hacker ile birçok bilgi paylaşır ve buna göre işlemler gerçekleştirilir. Genel olarak bunun nedeni firmada çalışan veya önceden çalışmış olan kişilerin yapabileceği saldırılar gözlemlenir ve ne tür kayıplar verebilecekleri tespit edilir.
+
+Gri kutu sızma testi : Gri kutu sızma testi beyaz ile siyah kutu karışımı diyebiliriz. En belirgin farkı ise beyaz kutudaki gibi detaylı bilgi verilmez. bu test düşük rütbedeki kişilerin vereceği zararları gözlemlemek amacıyla yapılmaktadır.

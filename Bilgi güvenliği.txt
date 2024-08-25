@@ -1,0 +1,7 @@
+Bilgi güvenliği : Bir bilginin güvenli olması için üç önemli kapsamı sağlıyor olması lazımdır. Gizlilik, Bütünlük, Erişebilirlik
+
+Gizlilik : Sadece yetkili olan şahıslar/kurumlar bilgiye erişebilir.
+
+Bütünlük : Bilginin özgüvenilirlik değeri.
+
+Erişebilirlik : Bilgiye 7/24 erişilebilir olması lazımdır.

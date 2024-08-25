@@ -1,0 +1,3 @@
+Dictionary force(sözlük saldırısı) : Bir hesaba ulaşmak için kelime listelerinden kelime seçilerek ardı ardına yapılan saldırılardır.
+
+Brute force(saldırısı) : Olası tüm kombinasyonların denenmesidir.

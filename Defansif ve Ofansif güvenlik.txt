@@ -1,0 +1,3 @@
+Ofansif güvenlik : "Kırmızı ekip" olarak da bilinen ofansif güvenlik, agresif bir şekilde sistemlere girmeye, yazılımdaki hatalardan yararlanmaya ve onlara onlara erişim sağlayan politikalarda boşluklar bulmaya çalışan bir tür siber güvenliktir.
+
+Defansif güvenlik : "Mavi ekip" olarak da bilinen defansif güvenlik, hem dijital hem de prosedürel güvenliği sağlamak için hem bilgisayar sistemlerini ve ağlarını tasarlayan kişilerdir.

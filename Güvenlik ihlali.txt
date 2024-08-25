@@ -1,0 +1,3 @@
+Güvenlik ihlali : Saldırganların verilere, uygulamalara, ağlara veya cihazlara yetkisiz kişilerin sızmasıdır.
+
+Sonuçları itibar kaybı, vandalizm(yağma), hırsızlık, gelir kaybı olabilir.

@@ -1,0 +1,2 @@
+DDoS(Distrubeted Denial of service) saldırısı.
+Saldırganlar kötü biçimlendirilmiş paketleri hedef sunuculara göndermesidir.

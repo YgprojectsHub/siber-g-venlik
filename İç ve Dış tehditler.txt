@@ -1,0 +1,5 @@
+Tehditler iç ve dış kaynaklardan gelebilir.
+
+İç kaynaklardan gelen tehditler : Çalışanlar, sözleşmeli personel, iş ortakları.
+
+Dış kaynaklardan gelen tehditler : Hackerlar ve Hack organizeleri.

@@ -1,0 +1,1 @@
+Şifreleme verinin yetkisiz kimseler tarafından okunmasını engelleyerek sadece yetkililer tarafından okunmasını amaçlar.

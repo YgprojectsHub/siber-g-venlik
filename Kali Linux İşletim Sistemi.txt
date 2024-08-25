@@ -1,0 +1,9 @@
+Kali Linux Sızma Testleri için geliştirilmiş bir Linux dağıtımıdır.
+
+Yazılım geliştiricileri, Bilişim güvenliği uzmanları, Ağ yöneticileri dahil birçok alanda çalışma yapanlar için bir test platformudur.
+
+Aynı zamanda Adli bilişim çalışmalarında da kullanılır.
+
+Kişisel veya kurumsal için önemli bir işletim sistemidir.
+
+Sanallaştırma : Tek bir fiziksel bilgisayarı veya sunucuyu alır ve bilgi işlem ortamlarını fiziksel altyapıdan ayırarak bunu birkaç sanal makinaya böler. Paylaşımlı sanallaştırılmış donanımlarda birden fazla iş yükü, birbirinden tamamen izole ve performanslı bir şekilde çalışabilir.

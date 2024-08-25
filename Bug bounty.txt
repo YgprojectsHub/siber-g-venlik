@@ -1,0 +1,1 @@
+Bug bounty bir ödül programıdır. Hackerlar sistemlerde bulunan güvenlik açıklarını tespit etmesi ve raporlaması karşılığında ödül kazanırlar.

@@ -1,0 +1,3 @@
+Güvenlik sorusu, şifrenizi unttuğunuzda ya da yanlış şifre girdiğiniz için üyeliğiniz geçici olarak dondurulduğunda yeni bir şifre oluşturmanızı sağlar.
+
+Güvenlik sorusu özenle seçilmelidir. Herkesin tahmin edebileceği sorular olmamalıdır.

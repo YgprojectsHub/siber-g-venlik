@@ -1,0 +1,1 @@
+APT(Advanced Persistent Threat) Gelişmiş kalıcı tehdit saldırıları tek kişinin yapamacağı kadar karışık ve maliyetli olduğu için genelde grup halinde gerçekleştirilir.

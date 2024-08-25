@@ -1,0 +1,22 @@
+Amatörler : Aslında bilgisayar kültürü olmayan bir veya daha fazla program kullanmayı öğrenen 
+yeni başlayanlardır.
+
+Beyaz şapkalı hacker : Bilgisayar bilimini derinlemesine bilen güvenlik uzmanlarıdır, saldırgan değillerdir.
+
+Siyah şapkalı hacker : Bilgisayar bilimini derinlemesine bilen kötü niyetli uzmanlarıdır, saldırganlardır.
+
+Gri şapkalı hacker : Bilgisayar bilimini derinlemesine bilen izin almadan saldırı düzenleyen ve anlık çıkarları gözeten uzmanlarıdır, saldırganlardır.
+
+Hacktivistler : Protesto amaçlı yapılan hackerlardır.
+
+Devlet destekli hackerlar : Devletlere hizmet eden hackerlar.
+
+Siber teröristler : Terör amaçlı yapılan siber saldırılardır.
+
+
+
+
+
+
+
+

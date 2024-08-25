@@ -1,0 +1,3 @@
+CPU kullanımında artış,
+Dosyalar değiştirme veya silinme,
+Kullanıcının rızası olmadan e-posta gönderme

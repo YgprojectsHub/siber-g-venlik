@@ -1,0 +1,15 @@
+Zararlı yazılım, programlanabilir herhangi bir aygıta, hizmete veya ağa zarar vermek veya bunlardan yararlanmak üzere tasarlanmış yazılımlardır.
+
+Virüs : Virüsler, kendilerini bir uygulamaya ekleyen ve uygulama her çalıştığında etkinleşen kod parçalarıdır. Bir ağa girdiklerinde hassas verileri çalabilir.
+
+Solucanlar : En sık karşılaşılan kötü amaçlı yazılım çeşitlerinden biri olan solucanlar, işletim sisteminin güvenlik açılarından faydalanarak bilgisayar ağlarına yayılırlar. Solucan, herhangi birinin bir eylemde bulunmasına gerek olmadan kendi kendini kopyalayarak başka bilgisayarlara bulaşan bir program türüdür.
+
+Truva Atı : Bir truva atı bilgisayarınıza kötü amaçlı yazılım yükletmek için sizi gerçek bir yazılım kılığına girerek kandırır. Güvenilir göründüğü için kullanıcılar çekinmeden indirir v e cihazlarına istemeden kötü amaçlı yazılım bulaştırmış olurlar.
+
+Botnet : Bot, bilgisayar korsanı tarafından uzaktan kontrol edilebilmek için kötü amaçlı yazılım bulaştırılmış bir bilgisayardır. Zaman zaman zombi bilgisayar olarak da anılan bot, daha fazla saldırı gerçekleştirmek ya da botnet adında, botlardan oluşan bir ağın parçası yapılmak için kullanılabilir.
+
+Fidye yazılım : Fidye yazılımları, fidye ödenene kadar kullanıcıları kendi sistemlerine sokmamak veya belirli verilere erişimi kısıtlamak üzere tasarlanmış kötü amaçlı yazılımlardır.
+
+Casus yazılım : Casus yazılımlar cihazınızda saklanıp etkinliklerinizi gözleyen ve finansal veriler, hesap bilgileri, giriş ve benzeri hassas bilgileri çalan kötü amaçlı yazılımlardır.
+
+Reklam yazılım : Reklam yazılımlar bilgisayar ekranı ile mobil cihazda istenmeyen hatta zaman zaman kötü amaçlı reklamlar gösteren, arama sonuçlarını reklamlı sitelere yönelten ve kullanıcının izni olmadan kullanıcı verilerini toplayıp satan yazılımlardır.
